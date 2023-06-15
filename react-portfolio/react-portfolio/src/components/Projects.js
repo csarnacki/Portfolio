@@ -4,7 +4,7 @@ function Projects(props) {
   return (
     <div>
       <div className="columns is-desktop is-justify-content-center is-flex-wrap-wrap is-flex-direction-row">
-        {props.projects.map((project) => (
+        {props.projects?.map((project) => (
           <div className="column is-half">
             <div className="card">
               <div className="card-image">

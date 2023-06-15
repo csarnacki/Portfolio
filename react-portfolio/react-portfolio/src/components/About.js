@@ -4,7 +4,7 @@ function About() {
   return (
     <div>
       <hr />
-      <img src={"header.jpg"} alt="Headshot"/>
+      <img src={"/images/headshot.jpg"} alt="Headshot"/>
       <p className="content is-italic mt-4">
         My name is Chris Sarnacki and I am a passionate and thorough person who 
         seeks to get things done right.
