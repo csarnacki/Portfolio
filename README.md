@@ -16,4 +16,5 @@ event listeners in the form of an onBlur or onSubmit event.
 
 Below is a screenshot of the deployed application.
 
-![Screenshot (23)](https://github.com/csarnacki/Portfolio/assets/83378660/0f838126-95c0-4d9d-b4bf-e1ff3182b235)
+![Screenshot (23)](https://github.com/csarnacki/Portfolio/assets/83378660/b4c214f3-78ba-430e-be89-14f2cb9f4d3b)
+
