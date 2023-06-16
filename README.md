@@ -15,3 +15,5 @@ Specifically, this uses React v.17.0.2 and makes use of various React elements s
 event listeners in the form of an onBlur or onSubmit event.
 
 Below is a screenshot of the deployed application.
+
+![Screenshot (23)](https://github.com/csarnacki/Portfolio/assets/83378660/0f838126-95c0-4d9d-b4bf-e1ff3182b235)
