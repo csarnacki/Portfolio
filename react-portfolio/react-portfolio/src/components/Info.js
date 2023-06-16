@@ -60,10 +60,10 @@ const projects = [
   },
 ];
 
-function Info() {
+function Portfolio() {
   return (
     <div>
-      <p className="content is-medium">Project Info</p>
+      <p className="content is-medium">Portfolio</p>
       <hr />
 
       <Projects projects={projects} />
@@ -71,4 +71,4 @@ function Info() {
   );
 }
 
-export default Info;
+export default Portfolio;

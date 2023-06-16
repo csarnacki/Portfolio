@@ -45,7 +45,7 @@ function Contact() {
         </div>
         <div className="field">
           <label className="label" htmlFor="message">Message</label>
-          <textarea className="textarea" name="message" rows="5" defaultValue={message} onBlur={handleChange} />
+          <textarea className="textarea" name="message" rows="5" cols="50" defaultValue={message} onBlur={handleChange} />
         </div>
         {errorMessage && (
           <div>

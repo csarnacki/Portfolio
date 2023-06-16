@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Navigation from "./Nav";
 import About from "./About";
 import Contact from "./Contact";
-import Projects from "./Projects";
+import Portfolio from './Info';
 
 function Header() {
   const [currentPage, handlePageChange] = useState("About");
@@ -13,7 +13,7 @@ function Header() {
       case "About":
         return <About />;
       case "Projects":
-        return <Projects />;
+        return <Portfolio />;
       case "Contact":
         return <Contact />;
       default:
